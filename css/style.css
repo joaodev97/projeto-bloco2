@@ -1,0 +1,46 @@
+h1{
+    font-size: 2.3rem;
+}
+h2{
+    font-size: 1.8rem;
+}
+h3{
+    font-size: 1.6rem;
+}
+.frase{
+    background-color: #e6e6fa;
+    padding: 10px 5px;
+}
+.azul{
+    color: #0000ff;
+}
+.verde{
+    color: #006400;
+}
+.vermelho{
+    color: #8b0000;
+}
+.imagem{
+    width: 100%;
+}
+.meio-texto{
+    background-color: #e0dada;
+    font-family: sans-serif;
+}
+.tabela{
+    width: 100%;
+    font-size: 2rem;
+    border:1px solid #000000 ;
+
+}
+.tabela th{
+    border:1px solid #000000 ;
+
+}
+.tabela td{
+    border:1px solid #000000 ;
+
+}
+.direita{
+    text-align: right;
+}
